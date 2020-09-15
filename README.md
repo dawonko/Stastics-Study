@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+
 ### Hi there 👋
 
 🌱 I’m currently learning ...
@@ -5,7 +7,7 @@ Python Machine Learning, Data Analysis for getting useful insights
 
 📫 How to reach me ...
 zlsjau07@gmail.com
-<!--![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+<!--
 **dawonko/dawonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
